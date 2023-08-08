@@ -1,2 +1,1 @@
-# matrix
-Coordination and configuration files for the archaeo.social Matrix server
+This repository contains configuration files and other documents relating to the [Matrix](https://matrix.org) server at `matrix.archaeo.social` and associated [Element](https://element.io/) client at [chat.archaeo.social](https://chat.archaeo.social).
